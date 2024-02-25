@@ -1,0 +1,31 @@
+  .doctor-card {
+    width: 200px;
+    background-color: lightgray;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 10px;
+    float: left;
+    text-align: center;
+  }
+  .doctor-image {
+    width: 100%;
+    border-radius: 50%;
+    
+  }
+  .doctor-name {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  .doctor-speciality {
+    font-size: 14px;
+    color: #777;
+  }
+  h3{
+    text-align: center;
+  }
+  #doctor-container{
+    margin-left: 55px;
+  }
+
+  
+
